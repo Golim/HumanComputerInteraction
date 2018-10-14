@@ -38,8 +38,8 @@ Oltre a garantire un buon sistema di trasporto pubblico urbano, la mobilità sos
 
 ##### Risultati
 
-![Risultati](/img/risultati1.png "Risultati")
+![Risultati](img/risultati1.png "Risultati")
 
-![Risultati](/img/risultati2.png "Risultati")
+![Risultati](img/risultati2.png "Risultati")
 
 ## 2) Classify examples
