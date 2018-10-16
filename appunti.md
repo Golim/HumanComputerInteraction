@@ -111,7 +111,7 @@ La UX è una risposta psicologica complessa all'interazione con un sistema compu
     -------|-------|------|------
     -- | Colore + Bianco | Colore + Nero | Colore + Bianco + Nero
 - Simmetria
-- Contrasto tra figura e sfondo
+- Contrasto tra figure e sfondo
 
 ## 2) Visibilità
 La visibilità è intesa a rendere le parti rilevanti del design visibilit (rendere facili da vedere e trovare le azioni). Tutte le parti funzionali devono essere visibili e deve essere presente un messaggio chiaro per l'utente riguardo a cosa può fare con esse.

@@ -1,0 +1,7 @@
+- Frequenti le lezioni?
+- Cosa usi per prendere appunti? PC o carta?
+- Cosa te ne fai degli appunti una volta che sei a casa?
+- Quanto ci metti a sistemare gli appunti a casa?
+- Che tipo di appunti prendi? Solo testo, diagrammi, disegni, ...
+- In aula ti siedi davanti o in fondo?
+- 
