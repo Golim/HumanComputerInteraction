@@ -106,7 +106,7 @@ La UX è una risposta psicologica complessa all'interazione con un sistema compu
 #### Fattori di design per la semplicità
 - Ordine visivo
 - Numero di colori
-  
+
     Colore | Tinta | Tono | Ombra
     -------|-------|------|------
     -- | Colore + Bianco | Colore + Nero | Colore + Bianco + Nero
@@ -152,3 +152,56 @@ E' simile ai principi di progettazione, ma più prescrittiva. E' spesso utilizza
 - Flessibilità ed efficienza di utilizzo.
 - Estetica e design minimalistico.
 - Aiuto e documentazione.
+
+# Interaction design
+L'interaction design riguarda la progettazione di prodotti interattivi per supportare le persone nella loro vita di tutti i giorni e lavorativa.
+E' focalizzato sugli utenti fin dall'inizio del processo di progettazione. Identifica, documenta e concorda gli obiettivi di usabilita e UX all'inizio del progetto. E' un processo iterativo.
+
+#### Obiettivi
+- Sviluppare prodotti usabili ed un'esperienza piacevole.
+- Coinvolgere gli utenti nel processo di progettazione:
+    1. **Analizzare**: identificare i bisogni e stabilire i requisiti.
+    2. **Progettare**: generare soluzioni.
+    3. **Costruire** prototipi interattivi che possono essere comunicati e valutati.
+    4. **Valutare** analiticamente, con gli utenti.
+
+# PACT
+Una buona progettazione tiene conto di:
+- **P**ersone: chi sono gli utenti.
+- **A**ttività: che attività sono svolte dall'utente.
+- **C**ontesto: dove avvengono le interazioni.
+- **T**ecnologie: che tecnologie vengono usate.
+
+L'analisi PACT è una struttura che permette di abbattere un problema di progettazione. Quest'analisi aiuta a orientare e focalizzare il pensiero iniziale del progetto. 
+## **P**ersone
+Ci sono tre categorie di utenti:
+- **Primari**: interagiscono direttamente e usano frequentemente il prodotto.
+- **Secondari**: usano il prodotto occasionalmente tramite altri.
+- **Terziari**: vengono influenzati dall'introduzione del prodotto o ne influenzano l'acquisto.
+
+#### Variabili
+Gli utenti possono variare molto in vari aspetti:
+- **Fisici**: età, abilità fisiche, ...
+- **Psicologici**: attenzione, percezione, memoria, ...
+- **Sociali** e **culturali**: livello di educazione e familiarità con la tecnologia.
+
+#### Attività
+Gli aspetti da tener conto riguardo alle attività sono:
+- **Scopo**.
+- Aspetto **temporale**.
+- **Cooperazione** con uno o più attori.
+- **Complessità**.
+- **Sicurezza** critica.
+- Natura del **contenuto**: dati processati, tipo di media.
+
+#### Contesto
+Il contesto può essere:
+- **Fisico**: luogo fisico dove avviene l'interazione.
+- **Sociale**: attività individuale o attività di gruppo, attività mediata al computer, ...
+- **Psicologico**: motivazione, attitudine, stress, emozione, ...
+
+#### Tecnologia
+- **Input**: ottenere dati
+- **Output**: video, audio, foto, parlato, ...
+- **Comunicazione**: tra persone, device, basata sul web, ...
+- **Contenuto** da mostrare.
