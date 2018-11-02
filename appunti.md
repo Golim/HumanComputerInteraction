@@ -179,13 +179,13 @@ Ci sono tre categorie di utenti:
 - **Secondari**: usano il prodotto occasionalmente tramite altri.
 - **Terziari**: vengono influenzati dall'introduzione del prodotto o ne influenzano l'acquisto.
 
-#### Variabili
+#### **V**ariabili
 Gli utenti possono variare molto in vari aspetti:
 - **Fisici**: età, abilità fisiche, ...
 - **Psicologici**: attenzione, percezione, memoria, ...
 - **Sociali** e **culturali**: livello di educazione e familiarità con la tecnologia.
 
-#### Attività
+#### **A**ttività
 Gli aspetti da tener conto riguardo alle attività sono:
 - **Scopo**.
 - Aspetto **temporale**.
@@ -194,14 +194,107 @@ Gli aspetti da tener conto riguardo alle attività sono:
 - **Sicurezza** critica.
 - Natura del **contenuto**: dati processati, tipo di media.
 
-#### Contesto
+#### **C**ontesto
 Il contesto può essere:
 - **Fisico**: luogo fisico dove avviene l'interazione.
 - **Sociale**: attività individuale o attività di gruppo, attività mediata al computer, ...
 - **Psicologico**: motivazione, attitudine, stress, emozione, ...
 
-#### Tecnologia
+#### **T**ecnologia
 - **Input**: ottenere dati
 - **Output**: video, audio, foto, parlato, ...
 - **Comunicazione**: tra persone, device, basata sul web, ...
 - **Contenuto** da mostrare.
+
+# Ideazione: spazio di design
+Criteri decisionali:
+1. Identificazione di una lacuna nel mercato e nei bisogni delle persone.
+2. Interesse personale.
+3. Facilità di accesso al determinato campo.
+4. Valutazione realistica delle tempistiche.
+
+# Requisiti utente
+Sono la traduzione dei bisogni degli utenti in **feature** del sistema.
+
+E' una dichiarazione relativa ad un prodotto previsto che specifica cosa e come dovrebbe eseguire un determinato compito. Devono essere più **specifici** e **chiari** il possibile e non essere ambigui.
+
+Non devono essere un insieme di rigide prescrizioni, ma non devono cambiare troppo radicalmente durante le fasi di progettazione e valutazione. Possono essere rivisti al termine della fase di valutazione.
+
+## Bisogni delle persone
+Per identificare i bisogni delle persone è necessario capire il più possibile riguardo alle attività dell'utente e sul contesto di utilizzo e stabilire un insieme di requisiti stabili. I requisiti devono essere giustificati e relativi a dei dati.
+
+#### Come identificare i bisogni delle persone
+- Raccolta di dati.
+- Analisi dei dati.
+- Risultati.
+- Espressione dei risultati come requisiti.
+
+## Obiettivi
+- Avere una comprensione condivisa all'interno del team di lavoro riguardo a cosa si sta lavorando.
+- Avere una base ed una documentazione comune.
+- Evitare alti costi per la correzione di errori durante il processo.
+
+## Errori comuni
+- Sottostima della complessità: in fatto di budget, tempistiche, ...
+- Mancato coinvolgimento delle parti interessate: le parti interessate devono fornire il loro punto di vista riguardo a decisioni critiche.
+
+## Classificazione dei requisiti
+
+#### Requisiti funzionali
+Sono fondamenti o caratteristiche essenziali del prodotto. Descrivono cosa il prodotto deve fare o che azioni deve eseguire per funzionare.
+
+#### Requisiti non funzionali
+Descrivono i vincoli che ci sono sullo sviluppo del sistema.
+
+Coprono un grande numero di aspetti della progettazione: usabilità, performance, sicurezza, ...
+
+#### Altre tipologie di requisiti
+
+##### Requisiti riguardo ai dati
+Tipo di dati, dimensione, numero, acuratezza, metodi di condivisione, ...
+
+##### Requisiti ambientali o contestuali
+Fisici, sociali o organizzativi.
+
+## Metodi per la raccolta di dati
+Esistono diversi metodi per raccogliere dati. La scelta dei metodi dipende dal tempo a disposizione, dal livello di dettaglio e rischio associato alla raccolta, dalla tipologia di azioni da studiare e dalle conoscenze degli analisti nel campo di ricerca.
+
+##### Consigli
+- E' importante identificare le persone giuste per la raccolta dei dati:
+    - Coinvolgere persone interessate da tutti i gruppi (primario, secondario e terziario).
+    - Coinvolgere più di una persona  per ogni gruppo.
+- Usare diversi tipi di accolta combinati.
+
+### Studiare la documentazione
+Procedure e regole si trovano spesso scritte nei manuali. La documentazione aiuta a capire la legislazione e altre informazioni.
+
+### Benchmarking: ricerca di prodotti simili
+E' un metodo creato e usato in particolare nel settore del business, volto ad identificare i migliori prodotti e le migliori pratiche in una determinata industria. Comparando i prodotti e le pratiche identificate è possibile capire:
+- Che bisogno di mercato soddisfano.
+- Come questi prodotti si differenziano gli uni dagli altri.
+- Quanto bene svolgono il loro lavoro.
+
+#### Obiettivi
+- Avere una visione generale del sistema in esame, può aiutare ad  dentificare lacune su cui lavorare.
+- Può fungere da ispirazione per il design, funge da libreria di design (una collezione organizzata di best practices ed esempi da cui prendere ispirazione).
+
+#### Come si fa un benchmarking
+1. **Collezionare** esempi di sistemi dal web. Un modo possibile per collezionare ed organizzare i dati è quello di raccogliere le stesse informazioni per ogni esempio e creare una presentazione (nome, descrizione, URL, target di riferimento, obiettivi, ...). Consigli:
+    - Concentrarsi sul dominio di interesse.
+    - Usare molte parole chiave.
+    - Cercare esempi locali, nazionali ed internazionali.
+    - Non guardare solo alle applicazioni.
+2. **Classificare** gli esempi trovati per affinità (tematica, utenti, PACT, strategia di design, ...). E' consigliabile usare strumenti per organizzare visivamente la classificazione (mappe concettuali, ...).
+
+### Osservazioni
+Passare del tempo con gli utenti durante le loro attività giornaliere. E' particolarmente utile per capire la natura e il contesto delle attività degli utenti.
+
+#### Questionari
+Utili per ottenere dati quantitativi o qualitativi e per ottenere risposte a specifiche domande da un grande gruppo di persone eterogeneo. E' utile per ottenere opinioni, ma non per ottenere motivazioni.
+
+#### Interviste
+Sono utili per esplorare problematiche, ma richiedono molto tempo.
+
+#### Interviste di gruppo
+Sono utili per ottenere delle visioni di gruppo e/o individuare aree di conflitto. Si possono utilizzare prototipi o scenari di esempio per stimolare la discussione.
+

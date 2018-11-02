@@ -78,11 +78,11 @@ Identificare i bisogni degli utenti, cercando di comprendere le loro attività, 
 E' importante definire un insieme di requisiti stabili (immutabili).
 
 1. Raccogliere dati
-   - Studiare la documentazione
-   - Ricercare prodotti simili
-   - Osservazioni: passare del tempo con gli utenti
-   - Fare questionari
-   - Fare interviste, anche di gruppo
+    - Studiare la documentazione
+    - Ricercare prodotti simili
+    - Osservazioni: passare del tempo con gli utenti
+    - Fare questionari
+    - Fare interviste, anche di gruppo
 2. Analizzare i dati
 3. Ottenere un risultato
 4. Tradurre il risultato in dei requisiti
